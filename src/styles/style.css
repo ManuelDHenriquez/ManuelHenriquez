@@ -229,6 +229,11 @@ span{
   color: #f17969;
 }
 
+.center
+{
+  text-align: center;
+}
+
 /* ------------------ footer --------------------- */
 
 @media screen and (max-width: 1080px) {
