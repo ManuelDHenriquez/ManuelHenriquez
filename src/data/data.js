@@ -18,5 +18,17 @@ export const images = [
     {
         "name": "gradas-3",
         "imagen": "images/trabajos/gradas-3.jpeg"
+    },
+    {
+        "name": "mirador",
+        "imagen": "images/trabajos/mirador.jpeg"
+    },
+    {
+        "name": "porton",
+        "imagen": "images/trabajos/porton.jpeg"
+    },
+    {
+        "name": "porton-2",
+        "imagen": "images/trabajos/porton-2.jpeg"
     }
 ]
