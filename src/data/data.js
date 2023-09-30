@@ -1,13 +1,5 @@
 export const images = [
     {
-        "name": "techo",
-        "imagen": "images/trabajos/techo.jpeg"
-    },
-    {
-        "name": "techo-2",
-        "imagen": "images/trabajos/techo-2.jpeg"
-    },
-    {
         "name": "gradas",
         "imagen": "images/trabajos/gradas.jpeg"
     },
@@ -30,5 +22,29 @@ export const images = [
     {
         "name": "porton-2",
         "imagen": "images/trabajos/porton-2.jpeg"
+    },
+    {
+        "name": "puerta",
+        "imagen": "images/trabajos/puerta.jpeg"
+    },
+    {
+        "name": "techo",
+        "imagen": "images/trabajos/techo.jpeg"
+    },
+    {
+        "name": "techo-2",
+        "imagen": "images/trabajos/techo-2.jpeg"
+    },
+    {
+        "name": "varanda",
+        "imagen": "images/trabajos/varanda.jpeg"
+    },
+    {
+        "name": "varanda-2",
+        "imagen": "images/trabajos/varanda-2.jpeg"
+    },
+    {
+        "name": "ventana",
+        "imagen": "images/trabajos/ventana.jpeg"
     }
 ]

@@ -266,14 +266,14 @@ body{
 } */
 
 h1{
-    font-size: 4rem;
+    font-size: 3rem;
     margin-top: 2rem;
     text-align: center;
     color: #023047;
 }
 
 #container{
-    width: 1200px;;
+    width: 100%;
     margin: 3rem auto;
     min-height: 80vh;
     display: flex;
